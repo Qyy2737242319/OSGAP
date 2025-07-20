@@ -3,17 +3,17 @@ This repository demonstrates our work, One-Shot Head Avatars via Generalizable G
 
 ## Experiment Results
 
+<p style="text-align:center;">Demonstration result of our model</p>
+
 ![image](./demo/0.png)
 
 ![image](./demo/1.png)
 
-<p style="text-align:center;">Demonstration result of our model</p>
+<p style="text-align:center;">Pipeline of our method</p>
 
 <p align="center">
   <img src="./demo/pipeline.png" />
 </p>
-
-<p style="text-align:center;">Pipeline of our method</p>
 
 ## Installation
 
