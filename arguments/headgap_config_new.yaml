@@ -1,0 +1,29 @@
+num_id: 115
+latent_f_dim: 128
+latent_z_dim: 48
+latent_h_dim: 34
+  
+mlp1_hidden_dim: 128
+mlp1_hidden_layers: 4
+
+mlp2_hidden_dim: 128
+mlp2_hidden_layers: 4
+
+cnn_hidden_channels: 128
+cnn_hidden_layers: 6
+
+uv_size: 256
+n_uniform_flame_vertices: 256  # new
+n_styles: 14 #new
+
+lambda_m: 10
+lambda_l1: 0.8
+lambda_ssmi: 0.2
+lambda_lpips: 0.4
+lambda_alpha: 1
+lambda_s: 1
+lambda_mui: 0.01
+lambda_arap: 1
+lambda_ref: 0.01
+threshold_xyz: 1
+threshold_scale: 0.6
